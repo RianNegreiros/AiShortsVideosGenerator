@@ -2,7 +2,7 @@
 
 A monorepo project for generating AI-powered short videos. The application combines multiple AI services to create videos from text prompts, including content generation, text-to-speech, image generation, and automated captioning.
 
-![A demonstration video showing the application in action](./_docs/demo-video.mp4)
+[![A demonstration video showing the application in action](https://raw.githubusercontent.com/riannegreiros/aishortsvideosgenerator/main/_docs/dashboard.png)](https://raw.githubusercontent.com/riannegreiros/aishortsvideosgenerator/main/_docs/demo-video.mp4)
 
 ## Architecture
 
